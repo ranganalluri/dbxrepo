@@ -1,4 +1,4 @@
-from src.mathone.utils.math_op import MathOperations
+from mathone.utils.math_op import MathOperations
 
 def main():
     math_operations = MathOperations(10)
